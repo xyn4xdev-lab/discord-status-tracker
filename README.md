@@ -38,7 +38,7 @@ This project demonstrates:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/discord-status-bot.git
+git clone https://github.com/xyn4xdev-lab/discord-status-tracker.git
 cd discord-status-bot
 ````
 
